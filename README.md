@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ukrainian 🇺🇦 & French 🇫🇷 Junior Dev from Paris
+Ukrainian 🇺🇦 & French 🇫🇷 Junior Dev from Paris <br>
 🔭 I’m currently working on Kasa - project 06 Openclassrooms Course<br>🌱 I’m currently learning React / JavaScript / Sass<br>
 
 
