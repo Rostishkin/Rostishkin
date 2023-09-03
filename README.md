@@ -1,6 +1,6 @@
 # 💫 About Me:
 Ukrainian 🇺🇦 & French 🇫🇷 Junior Dev from Paris <br>
-🔭 I’m currently working on Kasa - project 07 Openclassrooms Course<br>🌱 I’m currently learning React / JavaScript / Sass<br>
+🔭 I’m currently working on my portfolio - project 08 Openclassrooms Course<br>🌱 I’m currently learning React / JavaScript / Sass<br>
 
 
 ## 🌐 Socials:
